@@ -1,7 +1,6 @@
 package Vista;
 //@Autor Heber
 import Base_de_Datos.Funciones_BD;
-import Base_de_datos.*;
 import Interfaces.IPrestable;
 import Libreria.*;
 import java.util.ArrayList;

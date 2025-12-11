@@ -1,7 +1,6 @@
 package Vista;
 //@Autor Heber
 import Base_de_Datos.Funciones_BD;
-import Base_de_datos.*;
 import Libreria.Cargar_Elementos;
 import Libreria.Material;
 import java.util.ArrayList;

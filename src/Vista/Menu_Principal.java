@@ -1,8 +1,6 @@
 package Vista;
 //@Autor Heber
-import Base_de_Datos.Funciones_BD;
-import static Base_de_Datos.Funciones_BD.cargarPrestamosDesdeBD;
-import Base_de_datos.*;
+import Base_de_Datos.*;
 
 public class Menu_Principal extends javax.swing.JFrame {
 
